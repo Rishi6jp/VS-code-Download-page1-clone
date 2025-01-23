@@ -24,7 +24,7 @@ This is a clone of the Visual Studio Code (VS Code) download page, which mimics 
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/vscode-download-clone.git
+   git clone https://github.com/Rishi6jp/VS-code-Download-page1-clone.git
    ```
 
 2. Open the project folder and run `index.html` in your browser.
